@@ -1,0 +1,1 @@
+# A place for small useful functions that help other parts of the app.
